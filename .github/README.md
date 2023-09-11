@@ -6,7 +6,7 @@
     ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/ZERGIIORVDRA) 
 
 ## sᴛᴀᴛs
 <p align="center">
@@ -20,7 +20,7 @@
 <a href="https://github.com/Abishnoi69/ExonRobot/commits/Abishnoi69"> <img src="https://img.shields.io/github/last-commit/Abishnoi69/ExonRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/MUTUALAN_CARI_TEMAN_VIRTUAL)**_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
