@@ -3,7 +3,7 @@
 **ZerGroupManage**
 
 <h2 align="center">
-    ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
+    ──「 ZerGroupManage 」──
 </h2>
 
 ##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/ZERGIIORVDRA) 
