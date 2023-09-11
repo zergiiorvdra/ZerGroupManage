@@ -1,9 +1,9 @@
 
 {
-    "name": "ᴇxᴏɴᴏʙᴏᴛ",
+    "name": "ZerGroupManage",
     "description": "Telegram Group Management Bot Written In Python Using python-telegram-bot.",
-    "repository": "https://github.com/Abishnoi69/ExonRobot",
-    "logo": "https://te.legra.ph/file/b0e09aabe796209f01d3d.jpg",
+    "repository": "https://github.com/zergiiorvdra/ZerGroupManage",
+    "logo": "https://telegra.ph//file/faf09fc796d490199b492.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,17 +45,17 @@
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "1754029718"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "1754029718"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "Abishnoi1M"
+         "value": "ZERGIIORVDRA"
       },
       "LOGGER_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
